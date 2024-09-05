@@ -1,0 +1,68 @@
+.imagen {
+    height: 150px;
+    width: 150px;
+}
+.body { 
+    background-image: url(https://w0.peakpx.com/wallpaper/766/532/HD-wallpaper-creepy-forest-spooky-horror-art-art-artwork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.tabla {
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo {
+    color: white;
+    font-size: 120%;
+}
+
+.titulo {
+    color: rgb(128, 10, 10);
+    font-size: 300%;
+    text-align: center;
+}
+
+.links {
+    color: rgb(224, 14, 14);
+}
+
+.volverAJugar {
+    font-size: 150%;
+    text-align: center;
+}
+
+#badEnding {
+    background-image: url(https://pm1.aminoapps.com/6331/67af43c3d5274e2d3a2cf0dece63e253b783df1b_hq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#badEnding2 {
+    background-image: url(https://pm1.aminoapps.com/6545/0e7a12c784d6c4927d62bf556c88e22fbdbfadac_hq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#goodEnding {
+    background-image: url(https://images.unsplash.com/photo-1495745512803-dd531415ff55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#neutralEnding {
+    background-image: url(https://apoyovial.files.wordpress.com/2017/02/la-calle-de-la-quemada.jpg?w=858&h=395&crop=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
